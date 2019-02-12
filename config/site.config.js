@@ -15,7 +15,7 @@ const config = {
   site_description: 'draw area on a map',
 
   // Your website's URL, used for sitemap
-  site_url: '',
+  site_url: 'https://silly-jang-58dade.netlify.com/',
 
   // mapbox secret token
   mapbox_token: 'sk.eyJ1IjoiY29nb28iLCJhIjoiY2pzMjZwZ253MXV6bzQ5bTE0d3ZkZWd2aCJ9.mrD5qlMclcvXRdhRCzwljw',
